@@ -125,9 +125,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**[YOUR FULL NAME]**
-B.E. Computer Engineering — 8th Semester
-Gujarat Technological University
-Internship at Infolabz IT Services, Rajkot
+Aryan — Final Year Computer Engineering Student
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
