@@ -55,6 +55,8 @@ spanning 2023–2025, covering **321 tourist places** across **29 states** and
 
 ## 🏗️ Project Structure
 
+```
+
 tourism-demand-forecasting/
 │
 ├── app.py                 # Main Streamlit dashboard (5 pages)
@@ -65,6 +67,7 @@ tourism-demand-forecasting/
 ├── model_info.pkl         # Model metadata and risk ranges
 └── requirements.txt       # Python dependencies
 
+```
 
 ## 📊 Dashboard Pages
 
