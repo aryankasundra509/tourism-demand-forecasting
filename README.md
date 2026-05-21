@@ -73,11 +73,11 @@ tourism-demand-forecasting/
 
 | Page | Description |
 |------|-------------|
-| 📂 Dataset Explorer | Filter, search, and download raw data |
-| 📊 Tourism Overview | KPIs, zone charts, revenue analysis |
-| 📈 Demand & Trends | Monthly trends, heatmaps, YoY comparison |
-| 🚨 Overcrowding Risk | Risk classification and alert cards |
-| 🤖 Data Assistant | ML-powered visitor demand predictor |
+| Dataset Explorer | Filter, search, and download raw data |
+| Tourism Overview | KPIs, zone charts, revenue analysis |
+| Demand & Trends | Monthly trends, heatmaps, YoY comparison |
+| Overcrowding Risk | Risk classification and alert cards |
+| Data Assistant | ML-powered visitor demand predictor |
 
 ---
 
@@ -126,7 +126,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Aryan Kasundra**
-B.E. Computer Engineering
+- B.E. Computer Engineering
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
