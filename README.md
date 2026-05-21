@@ -125,7 +125,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Aryan Kasundra**
+**Aryan Kasundra** - 
 B.E. Computer Engineering
 
 
