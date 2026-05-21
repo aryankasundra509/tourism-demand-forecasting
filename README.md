@@ -98,7 +98,7 @@ tourism-demand-forecasting/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[YOUR_USERNAME]/tourism-demand-forecasting.git
+git clone https://github.com/aryankasundra509/tourism-demand-forecasting.git
 
 # 2. Navigate to project folder
 cd tourism-demand-forecasting
@@ -125,9 +125,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**[YOUR FULL NAME]**
-B.E. Computer Engineering — 8th Semester
-Gujarat Technological University
-Internship at Infolabz IT Services, Rajkot
+**[Aryan Kasundra]**
+B.E. Computer Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
