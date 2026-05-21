@@ -126,7 +126,7 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Aryan Kasundra**
-- B.E. Computer Engineering
+B.E. Computer Engineering
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-aryankasundra509-black?logo=github)](https://github.com/aryankasundra509)
